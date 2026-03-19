@@ -3,14 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:915EFF,100:4a90e2&height=130&section=header&text=FAIZ%20AHAMAD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 </p>
 
-<!-- 🔥 SKILLS ICON (3D FEEL) -->
+<!-- 🔥 SKILLS ICON (UPDATED) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,react&theme=dark" />
 </p>
 
 <!-- 🔥 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=915EFF&center=true&vCenter=true&width=650&lines=🚀+Backend+Developer;⚡+Node.js+%7C+MongoDB+%7C+REST+APIs;💻+Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=915EFF&center=true&vCenter=true&width=700&lines=🚀+Backend+Developer;⚡+Node.js+%7C+MongoDB+%7C+REST+APIs;💻+React+%7C+Scalable+Applications" />
 </p>
 
 ---
@@ -36,6 +36,8 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </p>
