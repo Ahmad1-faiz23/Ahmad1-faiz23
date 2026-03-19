@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Faiz Ahamad 👋
 
-<!--
-**Ahmad1-faiz23/Ahmad1-faiz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior Backend Developer  
+💻 Passionate about building scalable applications  
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
+- 🌐 Portfolio: https://portfolio-zziz.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/faiz-ahamad-17a309310/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Node.js ⚡
+- Express.js 🚀
+- MongoDB 🍃
+- JavaScript 💻
+- REST APIs 🔗
+
+## 🚀 Projects
+- 🔗 URL Shortener
+- 🎨 3D Portfolio Website
+- 🧠 AI Thumbnail Generator
+
+## 📈 Currently Learning
+- Advanced Backend Architecture  
+- Performance Optimization  
